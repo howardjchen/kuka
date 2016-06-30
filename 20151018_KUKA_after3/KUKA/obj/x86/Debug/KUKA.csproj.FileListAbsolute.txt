@@ -1,0 +1,287 @@
+C:\Users\ChengHei\Desktop\KUKA\KUKA\bin\Debug\KUKA.exe
+C:\Users\ChengHei\Desktop\KUKA\KUKA\bin\Debug\KUKA.pdb
+C:\Users\ChengHei\Desktop\KUKA\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\ChengHei\Desktop\KUKA\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\ChengHei\Desktop\KUKA\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ChengHei\Desktop\KUKA\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\ChengHei\Desktop\KUKA\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ChengHei\Desktop\KUKA\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ChengHei\Desktop\KUKA\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\ChengHei\Desktop\KUKA\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\ChengHei\Desktop\KUKA\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KUKA_New\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_New\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_New\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KUKA_New\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KUKA_New\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KUKA_New\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KUKA_New\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KUKA_New\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_New\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_New\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KUKA_New\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\ChengHei\Desktop\KUKA_New\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\ChengHei\Desktop\KUKA_New\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\bin\Debug\KUKA.exe
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\bin\Debug\KUKA.pdb
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ChengHei\Desktop\KUKA_NEW\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\新增資料夾 (3)\KUKA_NEW\KUKA\obj\x86\Debug\KUKA.exe
+H:\新增資料夾 (3)\KUKA_NEW\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_201411\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_201411\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_201411\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_201411\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_201411\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KUKA_201411\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KUKA_201411\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KUKA_201411\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KUKA_201411\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KUKA_201411\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KUKA_201411\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KUKA Code\KUKA_201411\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\bin\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\bin\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_201411\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\bin\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\bin\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cheng-Hei\Desktop\KUKA_201416\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KUKA_201416\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_201416\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_201416\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_201416\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_201416\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KUKA_201416\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KUKA_201416\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KUKA_201416\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KUKA_201416\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KUKA_201416\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KUKA_201416\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KUKA Code\KUKA_201416\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KUKA_201428\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_201428\KUKA\obj\x86\Debug\KUKA.pdb
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\obj\x86\Debug\KUKA.exe
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\obj\x86\Debug\KUKA.pdb
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\obj\x86\Debug\KUKA.Form1.resources
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\bin\Debug\KUKA.exe
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\bin\Debug\KUKA.pdb
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\bin\Debug\OpenCvSharp.dll
+E:\ISCI Lab621\先進手臂計畫(我的研究)\KUKA 機械手臂\KUKA手眼協調\20140128\KUKA_201428\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KUKA_20140206\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KukaCode\KUKA_20140206\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\bin\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\bin\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cheng-Hei\Desktop\KUKA_20140224\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KukaCode\KUKA_20140225\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140225\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_20140606\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.csprojResolveAssemblyReference.cache
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\obj\x86\Debug\KUKA.csproj.GenerateResource.Cache
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\bin\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\bin\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_20140606\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\bin\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\bin\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\obj\x86\Debug\KUKA.csprojResolveAssemblyReference.cache
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_Original(2014.06.18)\KUKA\obj\x86\Debug\KUKA.csproj.GenerateResource.Cache
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\obj\x86\Debug\KUKA.csprojResolveAssemblyReference.cache
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\obj\x86\Debug\KUKA.csproj.GenerateResource.Cache
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\bin\Debug\KUKA.exe
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\bin\Debug\KUKA.pdb
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\Cheng-Hei\Desktop\KUKA_PoseEstimation_20140619\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140619_rev\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\KukaCode(勿動)\KUKA_PoseEstimation_20140624\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\KukaCode(勿動)\2014.0708_PoseEstimation_Code\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\KukaCode(勿動)\2014.0708_PoseEstimation_Code\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\bin\Debug\KUKA.exe
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\bin\Debug\KUKA.pdb
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.pdb
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\bin\Debug\KUKA.exe
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\bin\Debug\KUKA.pdb
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\bin\Debug\OpenCvSharp.dll
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.Form1.resources
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.csprojResolveAssemblyReference.cache
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation\KUKA\obj\x86\Debug\KUKA.csproj.GenerateResource.Cache
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation_00\KUKA\obj\x86\Debug\KUKA.exe
+C:\Users\Kuka\Desktop\2014.0708_KUKA_PoseEstimation_00\KUKA\obj\x86\Debug\KUKA.pdb
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\obj\x86\Debug\KUKA.exe
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\obj\x86\Debug\KUKA.pdb
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\bin\Debug\KUKA.exe
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\bin\Debug\KUKA.pdb
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\bin\Debug\OpenCvSharp.dll
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\obj\x86\Debug\KUKA.Form1.resources
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\obj\x86\Debug\KUKA.csproj.GenerateResource.Cache
+D:\howard\2014.0708_KUKA_PoseEstimation_00\KUKA\obj\x86\Debug\KUKA.csprojResolveAssemblyReference.cache
+D:\howard\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.exe
+D:\howard\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.pdb
+D:\howard\20151018_KUKA_after3\KUKA\bin\Debug\KUKA.exe
+D:\howard\20151018_KUKA_after3\KUKA\bin\Debug\KUKA.pdb
+D:\howard\20151018_KUKA_after3\KUKA\bin\Debug\OpenCvSharp.dll
+D:\howard\20151018_KUKA_after3\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+D:\howard\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.Form1.resources
+D:\howard\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+D:\howard\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.csproj.GenerateResource.Cache
+D:\howard\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.csprojResolveAssemblyReference.cache
+D:\howard\demo\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.exe
+D:\howard\demo\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.pdb
+D:\howard\demo\20151018_KUKA_after3\KUKA\bin\Debug\KUKA.exe
+D:\howard\demo\20151018_KUKA_after3\KUKA\bin\Debug\KUKA.pdb
+D:\howard\demo\20151018_KUKA_after3\KUKA\bin\Debug\OpenCvSharp.dll
+D:\howard\demo\20151018_KUKA_after3\KUKA\bin\Debug\OpenCvSharp.MachineLearning.dll
+D:\howard\demo\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.csprojResolveAssemblyReference.cache
+D:\howard\demo\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.Form1.resources
+D:\howard\demo\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.Properties.Resources.resources
+D:\howard\demo\20151018_KUKA_after3\KUKA\obj\x86\Debug\KUKA.csproj.GenerateResource.Cache
